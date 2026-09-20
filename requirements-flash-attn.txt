@@ -1,0 +1,2 @@
+# Optional fast attention backend. Install after PyTorch with --no-build-isolation.
+flash-attn==2.5.9.post1

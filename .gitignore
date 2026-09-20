@@ -1,0 +1,30 @@
+# Model files and Hugging Face cache
+weights/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+.cache/
+# Generated results, local data, and experiment records
+outputs/
+results/
+datasets/
+*.log
+*.pid
+# Python / editor / operating system files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+# Credentials and machine-specific configuration
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
