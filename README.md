@@ -2,7 +2,7 @@
 
 ![](imgs/compare.png)
 
-Inference-only code for **RefineEdit**, a training-free prompt-to-prompt image
+**RefineEdit**, a training-free prompt-to-prompt image
 editing method built on GRN. RefineEdit reuses an intermediate source state,
 selects editable coordinates through source-anchored bit routing, and stabilizes
 editing with **adaptive spatial freezing (AdaSF)** and **finite bit locking (FBL)**.
